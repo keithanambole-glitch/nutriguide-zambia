@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 
+// eslint-disable-next-line
 const COLORS = {
   green: "#2d6a2d",
   greenMid: "#3e8e3e",
